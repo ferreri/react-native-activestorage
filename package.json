@@ -1,12 +1,8 @@
 {
   "name": "react-native-activestorage",
-  "version": "0.2.0",
-  "main": "dist/commonjs/index.js",
-  "module": "dist/esm/index.js",
-  "files": [
-    "dist/commonjs",
-    "dist/esm"
-  ],
+  "version": "0.2.5",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "description": "React Native support for Rails ActiveStorage",
   "homepage": "https://github.com/jpalumickas/react-native-activestorage",
   "bugs": {
